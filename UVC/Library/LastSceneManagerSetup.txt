@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/UVC4UnityAndroidPlugin/Samples/Scenes/UVC2DScene.unity
-  isLoaded: 1
-  isActive: 1
